@@ -18,7 +18,7 @@ const Landing = () => {
           </div>
 
           <img
-            src="/static/images/asset.jpeg"
+            src="../../public/static/images/asset.jpeg"
             alt=""
           />
         </div>
@@ -35,7 +35,7 @@ const Landing = () => {
           <div className="chip">
             <img
               style={{ height: "100px" }}
-              src="/static/images/asset1.png"
+              src="../../public/static/images/asset1.png"
               alt=""
             />
             <h3>Flutter</h3>
@@ -43,7 +43,7 @@ const Landing = () => {
           <div className="chip">
             <img
               style={{ height: "100px" }}
-              src="/static/images/asset2.png"
+              src="../../public/static/images/asset2.png"
               alt=""
             />
             <h3>Dart</h3>
@@ -51,7 +51,7 @@ const Landing = () => {
           <div className="chip">
             <img
               style={{ height: "100px" }}
-              src="/static/images/asset3.png"
+              src="../../public/static/images/asset3.png"
               alt=""
             />
             <h3>Firebase</h3>
