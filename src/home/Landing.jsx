@@ -18,7 +18,8 @@ const Landing = () => {
           </div>
 
           <img
-            src="/static/images/asset.jpeg"
+            // src="/static/images/asset.jpeg"
+            src="https://res.cloudinary.com/dex17d0p4/image/upload/v1699449728/asset_dqfq3b.jpg"
             alt="ania"
           />
         </div>
@@ -35,7 +36,8 @@ const Landing = () => {
           <div className="chip">
             <img
               style={{ height: "100px" }}
-              src="/static/images/asset1.png"
+              // src="/static/images/asset1.png"
+              src="https://res.cloudinary.com/dex17d0p4/image/upload/v1699449759/asset1-removebg-preview_gdpjvc.png"
               alt="mio"
             />
             <h3>Flutter</h3>
@@ -43,7 +45,8 @@ const Landing = () => {
           <div className="chip">
             <img
               style={{ height: "100px" }}
-              src="/static/images/asset2.png"
+              // src="/static/images/asset2.png"
+              src="https://res.cloudinary.com/dex17d0p4/image/upload/v1699449759/asset2-removebg-preview_bouuol.png"
               alt="mio1"
             />
             <h3>Dart</h3>
@@ -51,7 +54,8 @@ const Landing = () => {
           <div className="chip">
             <img
               style={{ height: "100px" }}
-              src="/static/images/asset3.png"
+              // src="/static/images/asset3.png"
+              src="https://res.cloudinary.com/dex17d0p4/image/upload/v1699449758/asset3-removebg-preview_lrdjdb.png"
               alt="mio2"
             />
             <h3>Firebase</h3>
