@@ -17,7 +17,10 @@ const Landing = () => {
             {/* <h2 style={{ color: "white" }}>About me</h2> */}
           </div>
 
-          <img src="../../public/asset.jpeg" alt="" />
+          <img
+            src="/static/images/asset.jpeg"
+            alt=""
+          />
         </div>
         <h2 style={{ color: "white" }}>About me</h2>
         <p style={{ color: "white", marginRight: "10px" }}>
@@ -29,20 +32,30 @@ const Landing = () => {
         </p>
 
         <div className="skills">
-
           <div className="chip">
-            <img style={{"height":"100px"}} src="../../public/asset1.png" alt="" />
+            <img
+              style={{ height: "100px" }}
+              src="/static/images/asset1.png"
+              alt=""
+            />
             <h3>Flutter</h3>
           </div>
           <div className="chip">
-            <img style={{"height":"100px"}} src="../../public/asset2.png" alt="" />
+            <img
+              style={{ height: "100px" }}
+              src="/static/images/asset2.png"
+              alt=""
+            />
             <h3>Dart</h3>
           </div>
           <div className="chip">
-            <img style={{"height":"100px"}} src="../../public/asset3.png" alt="" />
+            <img
+              style={{ height: "100px" }}
+              src="/static/images/asset3.png"
+              alt=""
+            />
             <h3>Firebase</h3>
           </div>
-
         </div>
       </div>
     </div>
